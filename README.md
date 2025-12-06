@@ -28,7 +28,7 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 
 ### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,vue,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,vue,html,css,bootstrap" />
 </p>
 
 ### Backend
@@ -43,7 +43,7 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 
 ### Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,androidstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,androidstudio,arduino" />
 </p>
 
 ---
