@@ -28,7 +28,7 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 
 ### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,vue,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vue,html,css,bootstrap" />
 </p>
 
 ### Backend
