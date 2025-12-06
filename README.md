@@ -51,8 +51,7 @@ A smart car store supported by a conversational AI assistant.
 
 **Tech:** Angular • Express.js • Rasa  
 ✨ Car search, filtering, comparison  
-🤖 AI chatbot for user interaction  
-🔗 *(Add repo link when available)*  
+🤖 AI chatbot for user interaction    
 
 ---
 
@@ -73,9 +72,9 @@ A smart car store supported by a conversational AI assistant.
 ---
 
 ### ⚡ Fun Facts
-- 🧠 I learn new frameworks very quickly  
+- 🧠 I love learning new frameworks
 - 🎮 Love gaming & experimenting with tech  
-- 📚 Big fan of clean, maintainable code  
+- 📚 Big fan of technology and cars  
 
 ---
 
