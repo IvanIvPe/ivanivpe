@@ -67,12 +67,13 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanIvPe&show_icons=true&theme=default&hide_border=false" alt="Ivan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanIvPe&layout=compact&hide_title=true&langs_count=6&theme=default&hide_border=false" alt="Ivan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanIvPe&show_icons=true&theme=default&hide_border=false&cache_bust=1" alt="Ivan's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanIvPe&layout=compact&hide_title=true&langs_count=6&theme=default&hide_border=false&cache_bust=1" alt="Ivan's Top Languages" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanIvPe&theme=default" alt="Ivan's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanIvPe&theme=default&cache_bust=1" alt="Ivan's GitHub Streak" />
 </p>
 
 ---
