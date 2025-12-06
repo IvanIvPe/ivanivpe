@@ -31,7 +31,6 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
 ### Backend & Core Languages
@@ -48,7 +47,6 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 ### Databases & Data Science
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> 
@@ -81,5 +79,5 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 ## 💡 Key Projects
 
 * **E-commerce Platform:** A full-featured online storefront built using the **MERN Stack (MongoDB, Express, React, Node.js)** with secure authentication and payment integration.
-* **Data Analysis Dashboard:** Developed a visualization tool for large datasets using **Python (Pandas/Matplotlib)** and a **Vue.js** frontend for interactive reporting.
-* **IoT Device Manager:** A backend service using **Java Spring Boot** and **MariaDB** to manage and monitor various IoT devices in real-time.
+* **Plant Management System:** A comprehensive platform for managing plant data and IoT sensors, utilizing **Spring Boot** for the backend and **MySQL** for robust data storage.
+* **Rasa Conversational Chatbot:** Developed a custom, context-aware chatbot using the **Rasa framework** (Python) for automated customer support and interactive user communication.
