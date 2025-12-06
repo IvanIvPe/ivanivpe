@@ -50,13 +50,6 @@ A dedicated Software Engineer focused on building robust and scalable applicatio
 
 ## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-ivanivpe.vercel.app/api?username=IvanIvPe&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ivanivpe.vercel.app/api/top-langs/?username=IvanIvPe&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IvanIvPe&theme=tokyonight" />
