@@ -2,8 +2,6 @@
 
 ### Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanIvPe&label=Profile views&color=0e75b6&style=flat" alt="IvanIvPe" /> </p>
-
 - 🌱 I'm currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
